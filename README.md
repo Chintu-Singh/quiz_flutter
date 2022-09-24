@@ -1,4 +1,4 @@
-# quizzler_flutter
+# quiz_flutter
 
 Quiz app using flutter
 
